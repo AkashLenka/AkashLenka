@@ -1,6 +1,6 @@
-### Hi there 👋, My Name is Akash Lenka
+### Hi there 👋, Akash Here
 #### Just a random procrastinating coder.
-![Just a random procrastinating coder.](https://raw.githubusercontent.com/rafacdomin/rafacdomin/v2/bioImg.svg)
+![Just a random procrastinating coder.](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -20,9 +20,5 @@ Skills: C++ / REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashLenka)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkashLenka&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/AkashLenka)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AkashLenka)  
 
 ![Profile views](https://gpvc.arturio.dev/AkashLenka)  
