@@ -1,20 +1,39 @@
-### Hi there 👋, My Name is Akash Lenka
-#### Just a random procrastinating coder.
-![Just a random procrastinating coder.](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
+# Akash Lenka
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+<img
+  align="right"
+  width="300px"
+  src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif"
+/>
+<span align="left">
+  <a href="https://www.linkedin.com/in/Random2.0/">
+    <img src="https://img.shields.io/badge/AkashLenka-Linkedin-blue" />
+  </a>
+  <a href="mailto:akash.lenka.2001@gmail.com">
+    <img src="https://img.shields.io/badge/AkashLenka-Gmail-red" />
+  </a>
+  <a href="https://github.com/rafacdomin/?tab=follow">
+    <img src="https://img.shields.io/badge/AkashLenka-Dev.io-black" />
+  </a>
+</span>
 
-Skills: C++ / REACT / JS / HTML / CSS
+<br />
 
-- 🔭 I’m currently working on Web Scraping 
-- 🌱 I’m currently learning Operating Sytems 
-- 💬 Ask me about HTML, CSS, JS, Competitive Programming 
-- 📫 How to reach me: Gmail or Discord 
-- 😄 Pronouns: He/Him 
+- 👨‍💻 Local Competitive Programmer
+- ⚡ Skills: **ReactJS, VueJS, React Native, JavaScript, Typescript, NodeJS**
+- 🌱 Learning more about and studying: **NextJS, Quasar Framework**
+- 💜 Interests: **Games 🎮, Music 🎵, Movies 🎬**
+- 👋🏻 Feel free to get in touch!
 
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashLenka)](https://github.com/anuraghazra/github-readme-stats)
-![Akash's Github stats](https://github-readme-stats.vercel.app/api?username=AkashLenka&show_icons=true&theme=radical)
+<img
+  align="left"
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=AkashLenka&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
+/>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AkashLenka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/akash_lenka)  
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashLenka&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
+/>
