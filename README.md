@@ -12,7 +12,7 @@
   <a href="mailto:akash.lenka.2001@gmail.com">
     <img src="https://img.shields.io/badge/AkashLenka-Gmail-red" />
   </a>
-  <a href="https://github.com/rafacdomin/?tab=follow">
+  <a href="https://github.com/AkashLenka">
     <img src="https://img.shields.io/badge/AkashLenka-Dev.io-black" />
   </a>
 </span>
