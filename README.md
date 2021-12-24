@@ -19,7 +19,7 @@
 
 <br />
 
-- 👨‍💻 Local Competitive Programmer
+- 👨‍💻 Random Competitive Programmer and Math Enthusiast
 - ⚡ Skills: **ReactJS, VueJS, React Native, JavaScript, Typescript, NodeJS**
 - 🌱 Learning more about and studying: **NextJS, Quasar Framework**
 - 💜 Interests: **Games 🎮, Music 🎵, Movies 🎬**
